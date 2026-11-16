@@ -20,6 +20,8 @@ Method 2
   and replace the existing code with the one you copied
 4. Click <img width="66" height="29" alt="image" src="https://github.com/user-attachments/assets/deedd58a-a216-4ab3-b734-8d5e6a6bae13" />
 
+note: for c file follow this [README](https://github.com/rayongwittayakom/peerapat-code-storage/blob/main/README.md) instead 
+
 
 
 
